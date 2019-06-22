@@ -1,4 +1,4 @@
-class RotateDoublyLinkedList {
+public class RotateDoublyLinkedList {
 
     class Node {
 
