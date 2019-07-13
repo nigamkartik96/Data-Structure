@@ -7,3 +7,6 @@
 
 **Linked List questions**
 1. Rotate Doubly Linked List
+
+**Misc Questions**
+1. Merge two objects into one using reflection in java
