@@ -10,3 +10,7 @@
 
 **Misc Questions**
 1. Merge two objects into one using reflection in java
+
+**Interview Bit**
+1. Add one to the array
+2. Largest number formed from an array
