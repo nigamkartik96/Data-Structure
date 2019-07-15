@@ -1,4 +1,4 @@
-package interviewBit;
+package interviewBit.array;
 
 import java.util.ArrayList;
 import java.util.Collections;
