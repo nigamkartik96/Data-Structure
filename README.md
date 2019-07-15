@@ -18,4 +18,5 @@
 2. Largest number formed from an array
 3. Repeated Number i.e return any number from Array which is repeated
 4. First Missing Integer
+5. Merge Intervals
  
