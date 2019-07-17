@@ -6,7 +6,7 @@
 * [-8, -7, -6] returns 1
 * Your algorithm should run in O(n) time and use constant space.
 */
-package interviewBit.array;
+package array;
 
 import java.util.ArrayList;
 

@@ -11,7 +11,7 @@
  *
  * GCD(m, n) : 3
  */
-package interviewBit.maths;
+package maths;
 
 public class GCD {
     public int gcd(int a, int b) {

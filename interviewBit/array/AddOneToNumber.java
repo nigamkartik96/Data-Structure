@@ -1,4 +1,4 @@
-package interviewBit.array;
+package array;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

@@ -9,7 +9,7 @@
  * All elements in the array are in the range [0, N-1]
  * N * N does not overflow for a signed integer
  */
-package interviewBit.maths;
+package maths;
 
 import java.util.ArrayList;
 

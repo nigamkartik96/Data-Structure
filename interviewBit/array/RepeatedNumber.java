@@ -11,7 +11,7 @@
  *
  * If there is no duplicate, output -1
  */
-package interviewBit.array;
+package array;
 
 import java.util.ArrayList;
 import java.util.List;

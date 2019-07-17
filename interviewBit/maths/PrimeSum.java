@@ -1,4 +1,4 @@
-package interviewBit.maths;
+package maths;
 
 import java.util.ArrayList;
 

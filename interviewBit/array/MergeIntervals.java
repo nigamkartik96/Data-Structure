@@ -15,7 +15,7 @@
  * <p>
  * Make sure the returned intervals are also sorted.
  */
-package interviewBit.array;
+package array;
 
 import java.util.ArrayList;
 import java.util.Collections;

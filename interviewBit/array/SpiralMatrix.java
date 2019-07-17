@@ -13,7 +13,7 @@
  *   [ 7, 6, 5 ]
  * ]
  */
-package interviewBit.array;
+package array;
 
 import java.util.ArrayList;
 

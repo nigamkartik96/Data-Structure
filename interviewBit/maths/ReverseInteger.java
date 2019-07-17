@@ -1,4 +1,4 @@
-package interviewBit.maths;
+package maths;
 
 public class ReverseInteger {
     public int reverse(int A) {
