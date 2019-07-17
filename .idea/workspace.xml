@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/RearrangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/GCD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -24,9 +24,18 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="291">
-                <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+                <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/src/main/java/interviewBit/maths/GCD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -45,18 +54,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="37">
               <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/array/src/main/java/interviewBit/array/SpiralMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -175,6 +172,7 @@
         <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/PrimeSum.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/RearrangeArray.java" />
+        <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/GCD.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -295,13 +293,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RearrangeArray">
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviewBit.array.MergeIntervals" />
+  <component name="RunManager" selected="Application.GCD">
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewBit.maths.GCD" />
       <module name="array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviewBit.array.*" />
+          <option name="PATTERN" value="interviewBit.maths.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,11 +361,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCD" />
         <item itemvalue="Application.RearrangeArray" />
         <item itemvalue="Application.PrimeSum" />
         <item itemvalue="Application.ReverseInteger" />
         <item itemvalue="Application.SpiralMatrix" />
-        <item itemvalue="Application.MergeIntervals" />
       </list>
     </recent_temporary>
   </component>
@@ -633,11 +631,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/array/src/main/java/interviewBit/maths/GCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="291">
-            <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>

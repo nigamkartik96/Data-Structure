@@ -25,5 +25,6 @@
 1. Reverse integer
 2. Prime Sum
 3. Rearrange Array
+4. Greatest Common Divisor
 
  
