@@ -23,5 +23,6 @@
 
 **Mathematics**
 1. Reverse integer
+2. Prime Sum
 
  
