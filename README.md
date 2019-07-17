@@ -20,4 +20,8 @@
 4. First Missing Integer
 5. Merge Intervals
 6. Spiral Matrix
+
+**Mathematics**
+1. Reverse integer
+
  
