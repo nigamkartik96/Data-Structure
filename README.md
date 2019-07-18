@@ -27,5 +27,6 @@
 3. Rearrange Array
 4. Greatest Common Divisor
 5. Palindrome Number check
+6. Excel Column Name from given number
 
  
