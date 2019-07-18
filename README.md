@@ -26,5 +26,6 @@
 2. Prime Sum
 3. Rearrange Array
 4. Greatest Common Divisor
+5. Palindrome Number check
 
  
