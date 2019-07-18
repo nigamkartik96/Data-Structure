@@ -28,5 +28,4 @@
 4. Greatest Common Divisor
 5. Palindrome Number check
 6. Excel Column Name from given number
-
- 
+7. Grid Unique Path ![alt text](http://i.imgur.com/3eaivQ5.png) 
