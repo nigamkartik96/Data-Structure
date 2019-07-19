@@ -30,3 +30,4 @@
 6. Excel Column Name from given number
 7. Grid Unique Path ![alt text](http://i.imgur.com/3eaivQ5.png) 
 8. Numbers of length N and value less than K
+9. Excel column number
