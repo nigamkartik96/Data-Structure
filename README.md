@@ -22,6 +22,7 @@
 6. Spiral Matrix
 7. Maximum product of indexes of next greater on left and right
 8. PrettyPrint Matrix 
+9. Noble Number
 
 **Mathematics**
 1. Reverse integer
