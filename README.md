@@ -32,3 +32,6 @@
 7. Grid Unique Path ![alt text](http://i.imgur.com/3eaivQ5.png) 
 8. Numbers of length N and value less than K
 9. Excel column number
+
+**String**
+1. Check Palindrome
