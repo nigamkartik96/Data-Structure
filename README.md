@@ -21,6 +21,7 @@
 5. Merge Intervals
 6. Spiral Matrix
 7. Maximum product of indexes of next greater on left and right
+8. PrettyPrint Matrix 
 
 **Mathematics**
 1. Reverse integer
