@@ -35,3 +35,4 @@
 
 **String**
 1. Check Palindrome
+2. Length of the last word
