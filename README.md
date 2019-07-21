@@ -39,3 +39,4 @@
 1. Check Palindrome
 2. Length of the last word
 3. Reverse Word
+4. Justify Text
