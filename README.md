@@ -41,3 +41,4 @@
 3. Reverse Word
 4. Justify Text
 5. Power of two
+6. Minimum number to make palindrome
