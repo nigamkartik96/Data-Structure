@@ -43,3 +43,4 @@
 5. Power of two
 6. Minimum number to make palindrome
 7. Amazing Sub-array
+8. ZigZag String
