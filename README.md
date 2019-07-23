@@ -44,3 +44,6 @@
 6. Minimum number to make palindrome
 7. Amazing Sub-array
 8. ZigZag String
+
+**Binary Search**
+1. Implement power function
