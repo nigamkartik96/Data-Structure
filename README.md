@@ -47,3 +47,4 @@
 
 **Binary Search**
 1. Implement power function
+2. Square root
