@@ -48,3 +48,4 @@
 **Binary Search**
 1. Implement power function
 2. Square root
+3. Search for a Range
