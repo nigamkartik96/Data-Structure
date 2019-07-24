@@ -58,3 +58,4 @@
 
 **Two Pointers**
 1. Merge two sorted list II
+2. Remove Duplicate from array
