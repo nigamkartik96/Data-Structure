@@ -50,3 +50,8 @@
 2. Square root
 3. Search for a Range
 4. Rotated Array Search
+
+**Bit Manipulation**
+1. Min XOR Value
+2. Single Number
+3. Number of set bits
