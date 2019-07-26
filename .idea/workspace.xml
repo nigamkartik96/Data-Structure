@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewBit/linkedlist/MergeTwoLL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -23,28 +23,10 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="291">
-                <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+              <first_editor relative-caret-position="368">
+                <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/ReverseLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -81,6 +63,15 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/MergeTwoLL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -151,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/array/SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/PrimeSum.java" />
@@ -200,8 +190,9 @@
         <option value="$PROJECT_DIR$/interviewBit/linkedlist/ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/interviewBit/linkedlist/RemoveDuplicate.java" />
         <option value="$PROJECT_DIR$/interviewBit/linkedlist/ListUtility.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/interviewBit/linkedlist/MergeTwoLL.java" />
       </list>
     </option>
   </component>
@@ -287,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeleteFromLast">
+  <component name="RunManager" selected="Application.MergeTwoLL">
     <configuration name="DeleteFromLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.DeleteFromLast" />
       <module name="Data-Structure" />
@@ -301,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twoPointers.MergeTwoSorted" />
+    <configuration name="MergeTwoLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.MergeTwoLL" />
       <module name="Data-Structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twoPointers.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeTwoLL" />
         <item itemvalue="Application.DeleteFromLast" />
         <item itemvalue="Application.RemoveDuplicate (1)" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.RemoveDuplicate" />
-        <item itemvalue="Application.MergeTwoSorted" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +384,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -401,7 +392,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32919255" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.20962733" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20962733" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -450,7 +441,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/src/main/java/interviewBit/array/AddOneToNumber.java" />
     <entry file="file://$PROJECT_DIR$/array/src/main/java/interviewBit/array/LargestNumber.java" />
     <entry file="file://$PROJECT_DIR$/reflection-example/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -804,16 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/MergePoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/RemoveDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -831,6 +811,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -841,8 +828,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="291">
-            <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+          <first_editor relative-caret-position="368">
+            <caret line="69" column="31" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
@@ -853,10 +840,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java">
+    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/MergePoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="352">
+          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/MergeTwoLL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
         </state>
       </provider>
     </entry>
