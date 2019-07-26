@@ -61,3 +61,6 @@
 2. Remove Duplicate from array
 3. Container with most water
 4. Difference possible
+
+**Linked List**
+1. Merge Point
