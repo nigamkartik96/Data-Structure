@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/interviewBit/linkedlist/RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interviewBit/linkedlist/ListUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/interviewBit/linkedlist/ListUtility.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/array/target/" />
     <ignored path="$PROJECT_DIR$/reflection-example/target/" />
@@ -20,12 +19,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="383">
-                <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+              <first_editor relative-caret-position="291">
+                <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -41,10 +40,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/RemoveDuplicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="322">
               <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -89,17 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/ListUtility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interviewBit/array/AddOneToNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="345">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="23" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -152,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/array/MergeIntervals.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/array/SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/array/src/main/java/interviewBit/maths/ReverseInteger.java" />
@@ -203,6 +201,7 @@
         <option value="$PROJECT_DIR$/interviewBit/linkedlist/RemoveDuplicate.java" />
         <option value="$PROJECT_DIR$/interviewBit/linkedlist/ListUtility.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java" />
       </list>
     </option>
   </component>
@@ -288,13 +287,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicate (1)">
-    <configuration name="FindMinXor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitwise.FindMinXor" />
+  <component name="RunManager" selected="Application.DeleteFromLast">
+    <configuration name="DeleteFromLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DeleteFromLast" />
       <module name="Data-Structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bitwise.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,11 +355,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteFromLast" />
         <item itemvalue="Application.RemoveDuplicate (1)" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.RemoveDuplicate" />
         <item itemvalue="Application.MergeTwoSorted" />
-        <item itemvalue="Application.FindMinXor" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +393,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,7 +401,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32919255" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20962733" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.20962733" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -451,7 +450,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/array/src/main/java/interviewBit/array/RepeatedNumber.java" />
     <entry file="file://$PROJECT_DIR$/array/src/main/java/interviewBit/array/AddOneToNumber.java" />
     <entry file="file://$PROJECT_DIR$/array/src/main/java/interviewBit/array/LargestNumber.java" />
     <entry file="file://$PROJECT_DIR$/reflection-example/pom.xml">
@@ -799,6 +797,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/MergePoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -809,10 +814,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/RemoveDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="322">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/ListUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -823,28 +838,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/RemoveDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/ListUtility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="383">
-            <caret line="67" column="33" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+          <first_editor relative-caret-position="291">
+            <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
@@ -852,6 +850,13 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interviewBit/linkedlist/DeleteFromLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>

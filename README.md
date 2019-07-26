@@ -66,3 +66,4 @@
 1. Merge Point
 2. Reverse a Linked List
 3. Remove Duplicate from Linked List
+4. Remove from last
