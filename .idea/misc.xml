@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/array/pom.xml" />
         <option value="$PROJECT_DIR$/reflection-example/pom.xml" />
+        <option value="$PROJECT_DIR$/misc/pom.xml" />
       </list>
     </option>
   </component>
