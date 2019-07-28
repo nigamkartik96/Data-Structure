@@ -32,4 +32,16 @@ public class ListUtility {
 
         System.out.println(string.substring(0, string.length() - 3).toString());
     }
+
+    static void insert(int a, ListNode A) {
+        ListNode ptr1 = A;
+        ListNode ptr2 = A.next;
+        while(ptr2!=null && a > ptr2.val) {
+            ptr1 = ptr1.next;
+            ptr2 = ptr2.next;
+        }
+
+        ptr1.next = new ListNode(a);
+        ptr1.next.next = ptr2;
+    }
 }

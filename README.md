@@ -69,3 +69,4 @@
 4. Remove from last
 5. Merge two sorted Linked List
 6. Rotate Linked List from right
+7. Insertion sort
