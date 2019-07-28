@@ -20,6 +20,8 @@ public class ReverseLinkedList {
             nextNode = temp;
         }
 
+        System.out.println(nextNode);
+
         return currentNode;
     }
 
