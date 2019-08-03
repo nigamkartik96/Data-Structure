@@ -74,4 +74,5 @@
 **Stack**
 1. Redundant Parentheses
 2. Rain Water Trapped  ![alt text](http://i.imgur.com/0qkUFco.png)
+3. Nearest Smallest Number
 
