@@ -77,3 +77,5 @@
 3. Nearest Smallest Number
 4. Minimum stack
 
+**Backtracking**
+1. Factorial
