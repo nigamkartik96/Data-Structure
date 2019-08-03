@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/interviewBit/stack/RedundantParanthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/src/main/java/PatternMN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewBit/stack/RainWaterTrapped.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -21,19 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/misc/src/main/java/PatternMN.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2107#2116#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interviewBit/twoPointers/MergeTwoSorted.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,12 +45,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interviewBit/stack/RainWaterTrapped.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="59" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="350">
-                <caret line="75" selection-start-line="75" selection-end-line="75" />
+              <first_editor relative-caret-position="260">
+                <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
               </first_editor>
               <second_editor />
             </state>
@@ -164,7 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/interviewBit/array/LargestNumber.java" />
         <option value="$PROJECT_DIR$/interviewBit/array/RepeatedNumber.java" />
         <option value="$PROJECT_DIR$/interviewBit/array/SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/interviewBit/maths/GCD.java" />
@@ -214,6 +211,7 @@
         <option value="$PROJECT_DIR$/misc/src/main/java/PartyToys.java" />
         <option value="$PROJECT_DIR$/misc/src/main/java/PatternMN.java" />
         <option value="$PROJECT_DIR$/interviewBit/stack/RedundantParanthesis.java" />
+        <option value="$PROJECT_DIR$/interviewBit/stack/RainWaterTrapped.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -297,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RedundantParanthesis">
+  <component name="RunManager" selected="Application.RainWaterTrapped">
     <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.InsertionSort" />
       <module name="Data-Structure" />
@@ -325,6 +323,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RainWaterTrapped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.RainWaterTrapped" />
+      <module name="Data-Structure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RedundantParanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.RedundantParanthesis" />
       <module name="Data-Structure" />
@@ -338,26 +349,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.RotateLinkedList" />
-      <module name="Data-Structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RainWaterTrapped" />
         <item itemvalue="Application.RedundantParanthesis" />
         <item itemvalue="Application.PatternMN" />
         <item itemvalue="Application.PartyToys" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.RotateLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -472,13 +470,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/interviewBit/maths/ReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interviewBit/maths/NumberToExcelColumn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -892,6 +883,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interviewBit/stack/RainWaterTrapped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -900,8 +901,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="350">
-            <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <first_editor relative-caret-position="260">
+            <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
           </first_editor>
           <second_editor />
         </state>
