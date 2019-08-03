@@ -70,3 +70,7 @@
 5. Merge two sorted Linked List
 6. Rotate Linked List from right
 7. Insertion sort
+
+**Stack**
+1. Redundant Parentheses
+
