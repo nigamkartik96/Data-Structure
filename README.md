@@ -17,6 +17,7 @@
 3. Minimum Value
 4. Number of Leaves
 5. Diagonal Sum of Binary tree ![alt text](http://www.geeksforgeeks.org/wp-content/uploads/DiagonalSum-1024x938.jpg)
+6. Foldable Binary Tree
 
 # Interview Bit
 
