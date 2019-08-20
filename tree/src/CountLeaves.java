@@ -34,13 +34,9 @@
  * There are two test casess.  First case represents a tree with 3 nodes and 2 edges where root is 1, left child of 1 is 3 and right child of 1 is 2.   Second test case represents a tree with 4 edges and 5 nodes.
  */
 public class CountLeaves {
-    int leaves = 0;
     int countLeaves(Node node) {
-        if (node == null) return leaves;
-        else if (node.left == null && node.right == null) leaves++;
-        countLeaves(node.left);
-        countLeaves(node.right);
-
-        return leaves;
+        if(node == null) return 0;
+        if (node.left == null && node.right == null) return 1;
+        return countLeaves(node.left) + countLeaves(node.right);
     }
 }
