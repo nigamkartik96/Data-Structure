@@ -15,6 +15,7 @@
 1. Height of tree
 2. Identical Tree
 3. Minimum Value
+4. Number of Leaves
 
 # Interview Bit
 
