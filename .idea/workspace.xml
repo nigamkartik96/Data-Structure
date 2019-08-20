@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/interviewBit/backtracking/SubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -21,15 +21,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interviewBit/stack/RedundantParanthesis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interviewBit/stack/RainWaterTrapped.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -45,8 +36,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="320">
-                <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+              <first_editor relative-caret-position="269">
+                <caret line="82" column="139" selection-start-line="82" selection-start-column="139" selection-end-line="82" selection-end-column="139" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,11 +47,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interviewBit/backtracking/SubSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="15" column="35" selection-start-line="15" selection-end-line="16" />
+            <state relative-caret-position="223">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#207#227#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/interviewBit/maths/RearrangeArray.java" />
         <option value="$PROJECT_DIR$/interviewBit/maths/ReverseInteger.java" />
         <option value="$PROJECT_DIR$/interviewBit/maths/PalindromeNumber.java" />
         <option value="$PROJECT_DIR$/interviewBit/maths/NumberToExcelColumn.java" />
@@ -203,6 +205,7 @@
         <option value="$PROJECT_DIR$/interviewBit/stack/MinStack.java" />
         <option value="$PROJECT_DIR$/interviewBit/backtracking/Factorial.java" />
         <option value="$PROJECT_DIR$/interviewBit/backtracking/SubSet.java" />
+        <option value="$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -286,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubSet">
+  <component name="RunManager" selected="Application.PhoneLetter">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backtracking.Factorial" />
       <module name="Data-Structure" />
@@ -313,12 +316,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RainWaterTrapped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.RainWaterTrapped" />
+    <configuration name="PhoneLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.PhoneLetter" />
       <module name="Data-Structure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="backtracking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,8 +329,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedundantParanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.RedundantParanthesis" />
+    <configuration name="RainWaterTrapped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.RainWaterTrapped" />
       <module name="Data-Structure" />
       <extension name="coverage">
         <pattern>
@@ -354,11 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneLetter" />
         <item itemvalue="Application.SubSet" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.NearestSmallestNumber" />
         <item itemvalue="Application.RainWaterTrapped" />
-        <item itemvalue="Application.RedundantParanthesis" />
       </list>
     </recent_temporary>
   </component>
@@ -392,8 +395,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -469,11 +472,40 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/interviewBit/string.java" />
     <entry file="file://$PROJECT_DIR$/interviewBit/array/Maxpprod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-561">
@@ -882,8 +914,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interviewBit/backtracking/SubSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="15" column="35" selection-start-line="15" selection-end-line="16" />
+        <state relative-caret-position="223">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#207#227#0" expanded="true" />
@@ -891,11 +923,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="320">
-            <caret line="81" column="10" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+          <first_editor relative-caret-position="269">
+            <caret line="82" column="139" selection-start-line="82" selection-start-column="139" selection-end-line="82" selection-end-column="139" />
           </first_editor>
           <second_editor />
         </state>
