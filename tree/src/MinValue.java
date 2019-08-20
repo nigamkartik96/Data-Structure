@@ -40,22 +40,7 @@
  */
 public class MinValue {
     int minValue(Node node) {
-        return getMinValue(node, Integer.MAX_VALUE);
-    }
-
-    public int getMinValue(Node node, int min) {
-        if (node == null) return min;
-        else {
-            if(node.data < min) min = node.data;
-            int left = getMinValue(node.left, min);
-            int right = getMinValue(node.right, min);
-            int minVal;
-
-            if (left < right) minVal = left;
-            else minVal = right;
-
-            if (minVal < min) min = minVal;
-            return min;
-        }
+        while (node.left != null) node = node.left;
+        return node.data;
     }
 }
