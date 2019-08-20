@@ -11,6 +11,9 @@
 **Misc Questions**
 1. Merge two objects into one using reflection in java
 
+**Tree**
+1. Height of tree
+
 # Interview Bit
 
 **Arrays**
