@@ -18,6 +18,7 @@
 4. Number of Leaves
 5. Diagonal Sum of Binary tree ![alt text](http://www.geeksforgeeks.org/wp-content/uploads/DiagonalSum-1024x938.jpg)
 6. Foldable Binary Tree
+7. Remove half node from ![alt text](https://www.cdn.geeksforgeeks.org/wp-content/uploads/maxMin.png) to ![alt text](https://contribute.geeksforgeeks.org/wp-content/uploads/halfnodes.png)
 
 # Interview Bit
 
