@@ -20,6 +20,7 @@
 6. Foldable Binary Tree
 7. Remove half node from ![alt text](https://www.cdn.geeksforgeeks.org/wp-content/uploads/maxMin.png) to ![alt text](https://contribute.geeksforgeeks.org/wp-content/uploads/halfnodes.png)
 8. Width of Tree
+9. Diameter of Tree ![alt text](https://contribute.geeksforgeeks.org/wp-content/uploads/diameter.jpg)
 
 # Interview Bit
 
