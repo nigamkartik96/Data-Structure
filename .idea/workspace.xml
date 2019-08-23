@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tree/src/InOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/src/main/java/CountNumberofSetBits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -83,16 +83,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NQueens">
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.Factorial" />
-      <module name="Data-Structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.CountNumberofSetBits">
+    <configuration name="CountNumberofSetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountNumberofSetBits" />
+      <module name="misc" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountNumberofSetBits" />
         <item itemvalue="Application.NQueens" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.PhoneLetter" />
         <item itemvalue="Application.SubSet" />
-        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>

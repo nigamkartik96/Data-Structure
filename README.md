@@ -12,6 +12,7 @@
 
 **Misc Questions**
 1. Merge two objects into one using reflection in java
+2. Count total set bits
 
 **Tree**
 1. Height of tree
