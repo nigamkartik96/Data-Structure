@@ -6,7 +6,8 @@
 3. Find the majority element in the array, i.e. the number which occur more the n/2 time in the array where n = length of the array
 
 **Linked List questions**
-1. Rotate Doubly Linked List
+1. Rotate Doubly Linked List with a factor of p
+2. Rotate a Doubly linked list
 
 **Misc Questions**
 1. Merge two objects into one using reflection in java
