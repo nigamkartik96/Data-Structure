@@ -8,6 +8,7 @@
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
 2. Rotate a Doubly linked list
+3. Merge Sort
 
 **Misc Questions**
 1. Merge two objects into one using reflection in java
