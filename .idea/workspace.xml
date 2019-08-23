@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/misc/src/main/java/CountNumberofSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/src/main/java/CountSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,10 +82,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountNumberofSetBits">
+  <component name="RunManager" selected="Application.CountSum">
     <configuration name="CountNumberofSetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountNumberofSetBits" />
       <module name="misc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountSum" />
+      <module name="array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backtracking.SubSet" />
-      <module name="Data-Structure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountSum" />
         <item itemvalue="Application.CountNumberofSetBits" />
         <item itemvalue="Application.NQueens" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.PhoneLetter" />
-        <item itemvalue="Application.SubSet" />
       </list>
     </recent_temporary>
   </component>
