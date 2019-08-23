@@ -22,6 +22,7 @@
 8. Width of Tree
 9. Diameter of Tree ![alt text](https://contribute.geeksforgeeks.org/wp-content/uploads/diameter.jpg)
 10. Sum of Binary Tree
+11. Mirror of a Tree ![alt text](https://contribute.geeksforgeeks.org/wp-content/uploads/mirrortrees.jpg)
 
 # Interview Bit
 
