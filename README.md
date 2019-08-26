@@ -5,6 +5,7 @@
 2. Find the maximum sub-array using Kadane's Algorithm
 3. Find the majority element in the array, i.e. the number which occur more the n/2 time in the array where n = length of the array
 4. Count number of sum pairs
+5. Dutch Flag
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
