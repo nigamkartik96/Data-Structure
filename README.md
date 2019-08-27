@@ -30,6 +30,7 @@
 10. Sum of Binary Tree
 11. Mirror of a Tree ![alt text](https://contribute.geeksforgeeks.org/wp-content/uploads/mirrortrees.jpg)
 12. InOrder Traversal
+13. Connect the same level of tree
 
 # Interview Bit
 
