@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/src/main/java/StockBuySell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/src/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,10 +70,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StockBuySell">
-    <configuration name="CountSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountSum" />
-      <module name="array" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="sort" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.StockBuySell" />
         <item itemvalue="Application.Method2" />
         <item itemvalue="Application.Equal0And1" />
         <item itemvalue="Application.SumOfPowers" />
-        <item itemvalue="Application.CountSum" />
       </list>
     </recent_temporary>
   </component>

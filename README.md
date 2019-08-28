@@ -19,6 +19,9 @@
 2. Count total set bits
 3. Express as sum of power of natural numbers
 
+**Sorting**
+1. Bubble Sort
+
 **Tree**
 1. Height of tree
 2. Identical Tree
