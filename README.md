@@ -18,6 +18,7 @@
 1. Merge two objects into one using reflection in java
 2. Count total set bits
 3. Express as sum of power of natural numbers
+4. Count inversion
 
 **Sorting**
 1. Bubble Sort
