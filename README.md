@@ -7,6 +7,7 @@
 4. Count number of sum pairs
 5. Dutch Flag
 6. Equal number of 0s and 1s
+7. Stock Buy and Sell
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
