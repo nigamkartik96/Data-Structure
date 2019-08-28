@@ -21,6 +21,7 @@
 
 **Sorting**
 1. Bubble Sort
+2. Heap Sort
 
 **Tree**
 1. Height of tree
