@@ -40,6 +40,7 @@ public class MinimumNumberOfJumps {
             for (int j = 0; j < i; j++) {
                 if (arr[j] + j >= i && jump[i] > jump[j] + 1) {
                     jump[i] = jump[j] + 1;
+                    break;
                 }
             }
         }
