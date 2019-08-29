@@ -11,6 +11,7 @@
 8. Minimum Number of jumps
 9. Arrange the numbers alternatively
 10. Number of platform needed
+11. Merge Without Extra Space
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
