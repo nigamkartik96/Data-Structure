@@ -9,6 +9,7 @@
 6. Equal number of 0s and 1s
 7. Stock Buy and Sell
 8. Minimum Number of jumps
+9. Arrange the numbers alternatively
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
