@@ -10,6 +10,7 @@
 7. Stock Buy and Sell
 8. Minimum Number of jumps
 9. Arrange the numbers alternatively
+10. Number of platform needed
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
