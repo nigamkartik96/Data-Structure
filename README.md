@@ -16,6 +16,7 @@
 **String**
 1. Anagram
 2. Longest Distinct characters in string
+3. Longest Palindrome in a String
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
