@@ -8,4 +8,12 @@ public class Node {
         next = null;
         this.data = data;
     }
+
+    @Override
+    public String toString() {
+        return "Node{" +
+                "next=" + next +
+                ", data=" + data +
+                '}';
+    }
 }

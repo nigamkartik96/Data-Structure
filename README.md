@@ -24,6 +24,7 @@
 1. Rotate Doubly Linked List with a factor of p
 2. Rotate a Doubly linked list
 3. Merge Sort
+4. Reverse a Linked List in groups of given size
 
 **Misc Questions**
 1. Merge two objects into one using reflection in java
