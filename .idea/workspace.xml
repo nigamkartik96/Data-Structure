@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/src/main/java/MergeSortO1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/misc/src/main/java/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -72,16 +72,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimumNumberOfJumps">
+  <component name="RunManager" selected="Application.Trie">
     <configuration name="CountInversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountInversion" />
-      <module name="sort" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HeapSort" />
       <module name="sort" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,13 +101,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trie" />
+      <module name="misc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trie" />
         <item itemvalue="Application.MinimumNumberOfJumps" />
         <item itemvalue="Application.InversionCount" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.CountInversion" />
-        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
