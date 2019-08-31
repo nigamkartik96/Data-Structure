@@ -13,6 +13,9 @@
 10. Number of platform needed
 11. Merge Without Extra Space
 
+**String**
+1. Anagram
+
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
 2. Rotate a Doubly linked list
