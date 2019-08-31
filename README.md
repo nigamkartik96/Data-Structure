@@ -15,6 +15,7 @@
 
 **String**
 1. Anagram
+2. Longest Distinct characters in string
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
