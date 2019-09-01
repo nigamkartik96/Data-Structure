@@ -27,6 +27,9 @@
 4. Reverse a Linked List in groups of given size
 5. Check Palindrome
 
+**Stack**
+1. Parenthesis Checker
+
 **Misc Questions**
 1. Merge two objects into one using reflection in java
 2. Count total set bits
