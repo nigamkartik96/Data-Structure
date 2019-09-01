@@ -29,6 +29,7 @@
 
 **Stack**
 1. Parenthesis Checker
+2. Next larger element
 
 **Misc Questions**
 1. Merge two objects into one using reflection in java
