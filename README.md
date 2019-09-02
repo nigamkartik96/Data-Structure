@@ -41,6 +41,7 @@
 **Sorting**
 1. Bubble Sort
 2. Heap Sort
+3. Paint wall problem
 
 **Tree**
 1. Height of tree
