@@ -42,7 +42,7 @@
 **Sorting**
 1. Bubble Sort
 2. Heap Sort
-3. Paint wall problem
+3. Merge K Sorted Array
 
 **Tree**
 1. Height of tree
@@ -124,6 +124,7 @@
 2. Rain Water Trapped  ![alt text](http://i.imgur.com/0qkUFco.png)
 3. Nearest Smallest Number
 4. Minimum stack
+5. Paint wall problem
 
 **Backtracking**
 1. Factorial
