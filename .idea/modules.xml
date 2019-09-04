@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/misc/misc.iml" filepath="$PROJECT_DIR$/misc/misc.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection-example/reflection-example.iml" filepath="$PROJECT_DIR$/reflection-example/reflection-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resursion/resursion.iml" filepath="$PROJECT_DIR$/resursion/resursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack/stack.iml" filepath="$PROJECT_DIR$/stack/stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />

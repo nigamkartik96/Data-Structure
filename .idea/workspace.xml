@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resursion/src/CombinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resursion/src/SpecialKeyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/src/MergeKSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/sort/src/MergeKSorted.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,14 +76,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeKSorted">
-    <configuration name="CountSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountSum" />
-      <module name="array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SubSet">
     <configuration name="MergeKSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeKSorted" />
       <module name="sort" />
@@ -103,6 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpecialKeyboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpecialKeyboard" />
+      <module name="resursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SubSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="backtracking.SubSet" />
       <module name="Data-Structure" />
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubSet" />
+        <item itemvalue="Application.SpecialKeyboard" />
         <item itemvalue="Application.MergeKSorted" />
         <item itemvalue="Application.PaintWall" />
         <item itemvalue="Application.ReverseGroup" />
-        <item itemvalue="Application.CountSum" />
-        <item itemvalue="Application.SubSet" />
       </list>
     </recent_temporary>
   </component>

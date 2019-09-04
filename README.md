@@ -13,6 +13,10 @@
 10. Number of platform needed
 11. Merge Without Extra Space
 
+**Recursion**
+1. Combination Sum 2
+2. Special Keyboard
+
 **String**
 1. Anagram
 2. Longest Distinct characters in string
