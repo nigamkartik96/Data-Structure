@@ -21,6 +21,7 @@
 **Hashing**
 1. Relative Sorting
 2. Common Elements
+3. Longest consecutive subsequence
 
 **String**
 1. Anagram

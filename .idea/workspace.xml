@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hashing/src/CommonNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashing/src/LongestConsecutiveSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CommonNumbers">
+  <component name="RunManager" selected="Application.LongestConsecutiveSubsequence">
     <configuration name="CommonNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CommonNumbers" />
       <module name="hashing" />
@@ -89,9 +89,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeKSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeKSorted" />
-      <module name="sort" />
+    <configuration name="LongestConsecutiveSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSubsequence" />
+      <module name="hashing" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestConsecutiveSubsequence" />
         <item itemvalue="Application.CommonNumbers" />
         <item itemvalue="Application.JosephusProblem" />
         <item itemvalue="Application.SubSet" />
         <item itemvalue="Application.SpecialKeyboard" />
-        <item itemvalue="Application.MergeKSorted" />
       </list>
     </recent_temporary>
   </component>
