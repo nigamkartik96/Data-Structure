@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Data-Structure.iml" filepath="$PROJECT_DIR$/.idea/Data-Structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashing/hashing.iml" filepath="$PROJECT_DIR$/hashing/hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/linked-list/linked-list.iml" filepath="$PROJECT_DIR$/linked-list/linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/misc/misc.iml" filepath="$PROJECT_DIR$/misc/misc.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection-example/reflection-example.iml" filepath="$PROJECT_DIR$/reflection-example/reflection-example.iml" />

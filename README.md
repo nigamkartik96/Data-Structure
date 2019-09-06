@@ -18,6 +18,9 @@
 2. Special Keyboard
 3. Josephus Problem
 
+**Hashing**
+1. Relative Sorting
+
 **String**
 1. Anagram
 2. Longest Distinct characters in string
