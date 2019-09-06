@@ -20,6 +20,7 @@
 
 **Hashing**
 1. Relative Sorting
+2. Common Elements
 
 **String**
 1. Anagram
