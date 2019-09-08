@@ -25,6 +25,7 @@
 4. Array Pair Sum Divisibility Problem
 5. Zero Sum Subarrays
 6. Smallest window in a string containing all the characters of another string
+7. Sorting Elements of an Array by Frequency
 
 **String**
 1. Anagram
