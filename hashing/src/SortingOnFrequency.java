@@ -54,7 +54,7 @@ public class SortingOnFrequency {
         StringBuffer result = new StringBuffer();
 
         countMap.entrySet().stream()
-                .sorted(Map.Entry.<Integer, Integer>comparingByKey())
+                .sorted(Map.Entry.comparingByKey())
                 .sorted(Map.Entry.<Integer, Integer>comparingByValue().reversed())
                 .forEach(e -> {
                     int key = e.getKey();
