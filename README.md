@@ -24,6 +24,7 @@
 3. Longest consecutive subsequence
 4. Array Pair Sum Divisibility Problem
 5. Zero Sum Subarrays
+6. Smallest window in a string containing all the characters of another string
 
 **String**
 1. Anagram
