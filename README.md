@@ -61,6 +61,7 @@
 
 **Graph**
 1. DFS of Graph
+2. BFS of Graph
 
 **Tree**
 1. Height of tree
