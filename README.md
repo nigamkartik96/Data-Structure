@@ -59,6 +59,9 @@
 2. Heap Sort
 3. Merge K Sorted Array
 
+**Graph**
+1. DFS of Graph
+
 **Tree**
 1. Height of tree
 2. Identical Tree
