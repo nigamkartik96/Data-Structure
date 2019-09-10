@@ -63,6 +63,7 @@
 1. DFS of Graph
 2. BFS of Graph
 3. Topological sort
+4. Detect cycle in an undirected graph
 
 **Tree**
 1. Height of tree
