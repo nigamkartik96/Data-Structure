@@ -62,6 +62,7 @@
 **Graph**
 1. DFS of Graph
 2. BFS of Graph
+3. Topological sort
 
 **Tree**
 1. Height of tree
