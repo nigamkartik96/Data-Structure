@@ -65,6 +65,9 @@
 3. Topological sort
 4. Detect cycle in an undirected graph
 
+**Greedy**
+1. N meetings in one room
+
 **Tree**
 1. Height of tree
 2. Identical Tree
