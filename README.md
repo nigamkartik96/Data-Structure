@@ -54,6 +54,7 @@
 3. Express as sum of power of natural numbers
 4. Count inversion
 5. Implementation of Trie Data Structure and last common substring problem
+6. Number of Steps
 
 **Sorting**
 1. Bubble Sort
