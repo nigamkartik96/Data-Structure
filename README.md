@@ -42,6 +42,7 @@
 3. Merge Sort
 4. Reverse a Linked List in groups of given size
 5. Check Palindrome
+6. Add two numbers
 
 **Stack**
 1. Parenthesis Checker
