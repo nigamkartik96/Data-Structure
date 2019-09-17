@@ -12,6 +12,7 @@
 9. Arrange the numbers alternatively
 10. Number of platform needed
 11. Merge Without Extra Space
+12. Minimum Swaps to Sort
 
 **Recursion**
 1. Combination Sum 2

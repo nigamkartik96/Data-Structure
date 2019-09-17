@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/src/main/java/MedianTwoArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc/src/main/java/NumberOfSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/src/main/java/MinimumNumberOfSwaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberOfSteps">
+  <component name="RunManager" selected="Application.MinimumNumberOfSwaps">
     <configuration name="DriverClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DriverClass" />
       <module name="graph" />
@@ -84,9 +82,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LongestConsecutiveSubsequence" />
-      <module name="hashing" />
+    <configuration name="MinimumNumberOfSwaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumNumberOfSwaps" />
+      <module name="array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumNumberOfSwaps" />
         <item itemvalue="Application.NumberOfSteps" />
         <item itemvalue="Application.TopoUtil" />
         <item itemvalue="Application.DriverClass" />
         <item itemvalue="Application.SmallestWindow" />
-        <item itemvalue="Application.LongestConsecutiveSubsequence" />
       </list>
     </recent_temporary>
   </component>
