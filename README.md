@@ -36,6 +36,7 @@
 4. Recursively Remove adjacent duplicates
 5. Longest Common Substring
 6. Rearrange characters
+7. Regex Pattern Matching
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
