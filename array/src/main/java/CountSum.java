@@ -33,9 +33,7 @@ public class CountSum {
     static int getPairsCount(int n, int sum) {
         HashMap<Integer, Integer> hm = new HashMap<>();
         for (int i = 0; i < n; i++) {
-            if (!hm.containsKey(arr[i]))
-                hm.put(arr[i], 0);
-            hm.put(arr[i], hm.get(arr[i]) + 1);
+            hm.put(arr[i], hm.getOrDefault(arr[i], 0) + 1);
         }
         int twice_count = 0;
         for (int i = 0; i < n; i++) {
