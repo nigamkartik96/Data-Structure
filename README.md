@@ -58,6 +58,7 @@
 4. Count inversion
 5. Implementation of Trie Data Structure and last common substring problem
 6. Number of Steps
+7. [Distribution of toys](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/stranger-game-3-1f0d2f47/description/)
 
 **Sorting**
 1. Bubble Sort
