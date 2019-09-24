@@ -73,6 +73,7 @@
 
 **Greedy**
 1. N meetings in one room
+2. Shop in Candy Store
 
 **Tree**
 1. Height of tree
