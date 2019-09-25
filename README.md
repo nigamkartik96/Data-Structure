@@ -74,6 +74,7 @@
 **Greedy**
 1. N meetings in one room
 2. Shop in Candy Store
+3. Largest number possible
 
 **Tree**
 1. Height of tree
