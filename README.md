@@ -78,6 +78,7 @@
 3. Largest number possible
 4. Geek collects the balls
 5. Maximize Toys
+6. Minimize Heights
 
 **Tree**
 1. Height of tree
