@@ -77,6 +77,7 @@
 2. Shop in Candy Store
 3. Largest number possible
 4. Geek collects the balls
+5. Maximize Toys
 
 **Tree**
 1. Height of tree
