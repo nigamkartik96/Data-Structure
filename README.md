@@ -79,6 +79,7 @@
 4. Geek collects the balls
 5. Maximize Toys
 6. Minimize Heights
+7. Page Faults in LRU
 
 **Tree**
 1. Height of tree
