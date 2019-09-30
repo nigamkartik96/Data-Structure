@@ -95,6 +95,7 @@
 11. Mirror of a Tree ![alt text](https://contribute.geeksforgeeks.org/wp-content/uploads/mirrortrees.jpg)
 12. InOrder Traversal
 13. Connect the same level of tree
+14. Clone Tree
 
 # Interview Bit
 
