@@ -15,6 +15,7 @@
 12. Minimum Swaps to Sort
 13. [Health of a person](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/attack-of-the-mind-flayer-3-119b5d47/description/)
 14. Palindromic Array
+15. Print Diagonally
 
 **Recursion**
 1. Combination Sum 2
