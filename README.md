@@ -38,6 +38,7 @@
 5. Longest Common Substring
 6. Rearrange characters
 7. Regex Pattern Matching
+8. Sum of numbers in string
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
