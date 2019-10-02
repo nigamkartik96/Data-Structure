@@ -14,6 +14,7 @@
 11. Merge Without Extra Space
 12. Minimum Swaps to Sort
 13. [Health of a person](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/attack-of-the-mind-flayer-3-119b5d47/description/)
+14. Palindromic Array
 
 **Recursion**
 1. Combination Sum 2
