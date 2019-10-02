@@ -100,6 +100,7 @@
 13. Connect the same level of tree
 14. Clone Tree
 15. Vertical Sum
+16. Trie | (Insert and Search)
 
 **Dynamic Programming**
 1. Count ways to N'th Stair(Order does not matter)
