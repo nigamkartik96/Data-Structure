@@ -42,6 +42,7 @@
 6. Rearrange characters
 7. Regex Pattern Matching
 8. Sum of numbers in string
+9. Word Break
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
