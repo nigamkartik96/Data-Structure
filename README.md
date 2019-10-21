@@ -17,6 +17,7 @@
 14. Palindromic Array
 15. Print Diagonally
 16. Kth Smallest Number
+17. Count the Zeros
 
 **Recursion**
 1. Combination Sum 2
