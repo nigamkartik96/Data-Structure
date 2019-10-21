@@ -142,7 +142,8 @@
 6. Minimum number to make palindrome
 7. Amazing Sub-array
 8. ZigZag String
-0. Count of strings that can be formed using a, b and c under given constraint
+9. Count of strings that can be formed using a, b and c under given constraint
+10. Distinct Occurrences 
 
 **Binary Search**
 1. Implement power function
