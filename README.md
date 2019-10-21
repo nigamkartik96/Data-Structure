@@ -107,6 +107,7 @@
 15. Vertical Sum
 16. Trie | (Insert and Search)
 17. Sum Tree
+18. Convert Linked List to tree
 
 **Dynamic Programming**
 1. Count ways to N'th Stair(Order does not matter)
