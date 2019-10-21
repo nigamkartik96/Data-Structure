@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/strings/src/DistinctOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/MatchPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DistinctOccurrences">
+  <component name="RunManager" selected="Application.MatchPattern">
     <configuration name="CalculateSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculateSum" />
       <module name="strings" />
@@ -93,16 +93,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberOfStairs" />
-      <module name="dynamic-programming" />
+    <configuration name="MatchPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatchPattern" />
+      <module name="strings" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberWaysToffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberWaysToffee" />
-      <module name="greedy" />
+    <configuration name="NumberOfStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfStairs" />
+      <module name="dynamic-programming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatchPattern" />
         <item itemvalue="Application.DistinctOccurrences" />
         <item itemvalue="Application.WordExist" />
         <item itemvalue="Application.CalculateSum" />
         <item itemvalue="Application.NumberOfStairs" />
-        <item itemvalue="Application.NumberWaysToffee" />
       </list>
     </recent_temporary>
   </component>

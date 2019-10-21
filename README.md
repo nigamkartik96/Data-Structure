@@ -43,6 +43,8 @@
 7. Regex Pattern Matching
 8. Sum of numbers in string
 9. Word Break
+10. Match Specific Pattern
+11. Distinct Occurrences 
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
@@ -143,7 +145,6 @@
 7. Amazing Sub-array
 8. ZigZag String
 9. Count of strings that can be formed using a, b and c under given constraint
-10. Distinct Occurrences 
 
 **Binary Search**
 1. Implement power function
