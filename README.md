@@ -110,6 +110,7 @@
 
 **Dynamic Programming**
 1. Count ways to N'th Stair(Order does not matter)
+2. Count number of hops
 
 # Interview Bit
 
