@@ -59,6 +59,8 @@
 **Stack**
 1. Parenthesis Checker
 2. Next larger element
+3. Paint the wall
+4. Maximum area in the histogram
 
 **Misc Questions**
 1. Merge two objects into one using reflection in java
