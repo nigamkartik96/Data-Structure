@@ -18,6 +18,7 @@
 15. Print Diagonally
 16. Kth Smallest Number
 17. Count the Zeros
+18. Stock price max profit
 
 **Recursion**
 1. Combination Sum 2
