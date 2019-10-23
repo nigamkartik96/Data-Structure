@@ -113,6 +113,7 @@
 16. Trie | (Insert and Search)
 17. Sum Tree
 18. Convert Linked List to tree
+19. Modify Values
 
 **Dynamic Programming**
 1. Count ways to N'th Stair(Order does not matter)
