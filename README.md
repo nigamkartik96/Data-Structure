@@ -19,6 +19,7 @@
 16. Kth Smallest Number
 17. Count the Zeros
 18. Stock price max profit
+19. Rearrange an array such that ‘arr[j]’ becomes ‘i’ if ‘arr[i]’ is ‘j’ 
 
 **Recursion**
 1. Combination Sum 2
