@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/src/main/java/ConvertIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/src/LongestNonRepeating.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -78,14 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConvertIndex">
-    <configuration name="CalculateSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculateSum" />
-      <module name="strings" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.LongestNonRepeating">
     <configuration name="ConvertIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConvertIndex" />
       <module name="array" />
@@ -95,6 +88,13 @@
     </configuration>
     <configuration name="DistinctOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DistinctOccurrences" />
+      <module name="strings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestNonRepeating" />
       <module name="strings" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestNonRepeating" />
         <item itemvalue="Application.ConvertIndex" />
         <item itemvalue="Application.MatchPattern" />
         <item itemvalue="Application.DistinctOccurrences" />
         <item itemvalue="Application.WordExist" />
-        <item itemvalue="Application.CalculateSum" />
       </list>
     </recent_temporary>
   </component>

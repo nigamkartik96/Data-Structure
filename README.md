@@ -48,6 +48,7 @@
 9. Word Break
 10. Match Specific Pattern
 11. Distinct Occurrences 
+12. Longest Substring Without Repeating Characters
 
 **Linked List questions**
 1. Rotate Doubly Linked List with a factor of p
