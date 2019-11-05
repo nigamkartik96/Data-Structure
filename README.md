@@ -20,6 +20,7 @@
 17. Count the Zeros
 18. Stock price max profit
 19. Rearrange an array such that ‘arr[j]’ becomes ‘i’ if ‘arr[i]’ is ‘j’ 
+20. Median of Two Sorted Arrays
 
 **Recursion**
 1. Combination Sum 2

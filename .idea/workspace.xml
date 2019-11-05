@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/array/src/main/java/MedianOfTwoArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/src/LongestNonRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/src/LongestNonRepeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestNonRepeating">
+  <component name="RunManager" selected="Application.MedianOfTwoArray">
     <configuration name="ConvertIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConvertIndex" />
       <module name="array" />
@@ -106,20 +107,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordExist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordExist" />
-      <module name="strings" />
+    <configuration name="MedianOfTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MedianOfTwoArray" />
+      <module name="array" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MedianOfTwoArray" />
         <item itemvalue="Application.LongestNonRepeating" />
         <item itemvalue="Application.ConvertIndex" />
         <item itemvalue="Application.MatchPattern" />
         <item itemvalue="Application.DistinctOccurrences" />
-        <item itemvalue="Application.WordExist" />
       </list>
     </recent_temporary>
   </component>
