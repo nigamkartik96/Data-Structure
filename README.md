@@ -122,6 +122,7 @@
 **Dynamic Programming**
 1. Count ways to N'th Stair(Order does not matter)
 2. Count number of hops
+3. Unique BSTs
 
 # Interview Bit
 
