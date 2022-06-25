@@ -2,7 +2,7 @@ package linkedlist;
 
 public class MergeTwoSortedList {
 
-    private static Node getMergedList(Node head1, Node head2) {
+    public static Node getMergedList(Node head1, Node head2) {
         Node finalNode = null;
         Node head = null;
         Node temp;
@@ -25,11 +25,19 @@ public class MergeTwoSortedList {
         }
 
         if (head1 != null) {
-            finalNode.next = head1;
+            if (finalNode == null) {
+                finalNode = head1;
+            } else {
+                finalNode.next = head1;
+            }
         }
 
         if (head2 != null) {
-            finalNode.next = head2;
+            if (finalNode == null) {
+                finalNode = head2;
+            } else {
+                finalNode.next = head2;
+            }
         }
 
         return head;

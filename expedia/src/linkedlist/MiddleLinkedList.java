@@ -2,27 +2,26 @@ package linkedlist;
 
 public class MiddleLinkedList {
 
-    private static int getMiddle(Node head) {
+    public static Node getMiddle(Node head) {
         if (head == null) {
-            return -1;
+            return new Node(-1);
         }
         if (head.next == null) {
-            return head.data;
+            return head;
         }
 
-        Node current = head;
-        Node fast = head;
+        Node fast = head.next;
 
         while (fast != null && fast.next != null) {
-            current = current.next;
+            head = head.next;
             fast = fast.next.next;
         }
 
-        return current.data;
+        return head;
     }
 
     public static void main(String[] args) {
         Node head = Utility.getList();
-        System.out.println(getMiddle(head));
+        System.out.println(getMiddle(head).data);
     }
 }
