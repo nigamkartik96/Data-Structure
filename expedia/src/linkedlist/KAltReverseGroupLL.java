@@ -1,8 +1,8 @@
 package linkedlist;
 
-public class ReverseInGroup {
+public class KAltReverseGroupLL {
 
-    private static Node reverseInGroup(int size, Node head) {
+    private static Node kAltReverseInGroup(Node head, int size) {
         if (head == null) return null;
 
         Node current = head;
@@ -19,8 +19,19 @@ public class ReverseInGroup {
             count++;
         }
 
-        if (next != null) {
-            head.next = reverseInGroup(size, next);
+        if (head != null) {
+            head.next = current;
+        }
+
+        count = 0;
+
+        while (count < size - 1 && current != null) {
+            current = current.next;
+            count++;
+        }
+
+        if (current != null) {
+            current.next = kAltReverseInGroup(current.next, size);
         }
 
         return prev;
@@ -28,6 +39,6 @@ public class ReverseInGroup {
 
     public static void main(String[] args) {
         Node head = Utility.getList();
-        Utility.printList(reverseInGroup(3, head));
+        Utility.printList(kAltReverseInGroup(head, 2));
     }
 }
