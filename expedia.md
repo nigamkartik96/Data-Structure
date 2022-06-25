@@ -5,7 +5,7 @@
 2. [Reverse a List in Groups](https://www.geeksforgeeks.org/reverse-a-list-in-groups-of-given-size/)
 3. [Reverse Alternate K Nodes](https://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/)
 4. [Write Function to find Middle](https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/)
-5. (https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/)
+5. [Merge Two Sorted Linked List](https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/)
 6. (https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
 7. (https://www.geeksforgeeks.org/remove-nth-node-from-end-of-the-linked-list/)
 8. (https://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/)
