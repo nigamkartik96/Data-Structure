@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/expedia/src/linkedlist/ReverseInGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expedia.md" beforeDir="false" afterPath="$PROJECT_DIR$/expedia.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expedia/src/linkedlist/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/expedia/src/linkedlist/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expedia/src/linkedlist/ReverseInGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/expedia/src/linkedlist/ReverseInGroup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +64,7 @@
       <recent name="$PROJECT_DIR$/linked-list/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseLinkedList">
-    <configuration name="ConvertIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertIndex" />
-      <module name="array" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseInGroup">
     <configuration name="LongestNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestNonRepeating" />
       <module name="strings" />
@@ -84,6 +75,19 @@
     <configuration name="MedianOfTwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MedianOfTwoArray" />
       <module name="array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseInGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.ReverseInGroup" />
+      <module name="expedia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseInGroup" />
         <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.UniqueBSTs" />
         <item itemvalue="Application.MedianOfTwoArray" />
         <item itemvalue="Application.LongestNonRepeating" />
-        <item itemvalue="Application.ConvertIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561193435288</updated>
       <workItem from="1561193436429" duration="1995000" />
-      <workItem from="1656156394681" duration="3591000" />
+      <workItem from="1656156394681" duration="5964000" />
     </task>
     <servers />
   </component>
