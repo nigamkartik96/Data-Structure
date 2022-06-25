@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/expedia/src/linkedlist/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expedia/src/linkedlist/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expedia/src/linkedlist/Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expedia/src/linkedlist/ReverseInGroup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expedia.md" beforeDir="false" afterPath="$PROJECT_DIR$/expedia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expedia/src/linkedlist/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/expedia/src/linkedlist/Utility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561193435288</updated>
       <workItem from="1561193436429" duration="1995000" />
-      <workItem from="1656156394681" duration="2760000" />
+      <workItem from="1656156394681" duration="3591000" />
     </task>
     <servers />
   </component>
@@ -195,11 +193,6 @@
           <url>file://$PROJECT_DIR$/interviewBit/backtracking/PhoneLetter.java</url>
           <line>44</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/expedia/src/linkedlist/ReverseLinkedList.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
