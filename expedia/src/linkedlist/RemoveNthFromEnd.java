@@ -2,19 +2,8 @@ package linkedlist;
 
 public class RemoveNthFromEnd {
 
-
-    public static int length(Node head) {
-        int len = 0;
-        while (head != null) {
-            head = head.next;
-            len++;
-        }
-
-        return len;
-    }
-
     private static Node removeNthNode(Node head, int n) {
-        int len = length(head);
+        int len = Utility.length(head);
 
         if (len == 0 || len < n) {
             return head;
