@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="213a6b3e-bea1-4961-abed-7fb9e1cb0432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/expedia/src/linkedlist/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expedia/src/linkedlist/RemoveNthFromEnd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/expedia.md" beforeDir="false" afterPath="$PROJECT_DIR$/expedia.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expedia/src/linkedlist/MergeTwoSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/expedia/src/linkedlist/MergeTwoSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expedia/src/linkedlist/MiddleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/expedia/src/linkedlist/MiddleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expedia/src/linkedlist/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/expedia/src/linkedlist/Utility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <recent name="$PROJECT_DIR$/linked-list/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.RemoveNthFromEnd">
     <configuration name="KAltReverseGroupLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.KAltReverseGroupLL" />
       <module name="expedia" />
@@ -121,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.ReverseInGroup" />
+    <configuration name="RemoveNthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.RemoveNthFromEnd" />
       <module name="expedia" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveNthFromEnd" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.MiddleLinkedList" />
         <item itemvalue="Application.MergeTwoSortedList" />
         <item itemvalue="Application.KAltReverseGroupLL" />
-        <item itemvalue="Application.ReverseInGroup" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1561193435288</updated>
       <workItem from="1561193436429" duration="1995000" />
-      <workItem from="1656156394681" duration="11441000" />
+      <workItem from="1656156394681" duration="12173000" />
     </task>
     <servers />
   </component>
@@ -221,19 +218,19 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/expedia/src/linkedlist/MergeSort.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="20" />
+          <url>file://$PROJECT_DIR$/expedia/src/linkedlist/RemoveNthFromEnd.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/expedia/src/linkedlist/MergeSort.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="21" />
+          <url>file://$PROJECT_DIR$/expedia/src/linkedlist/RemoveNthFromEnd.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/expedia/src/linkedlist/MergeSort.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="22" />
+          <url>file://$PROJECT_DIR$/expedia/src/linkedlist/RemoveNthFromEnd.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
